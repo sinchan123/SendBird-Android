@@ -22,7 +22,7 @@ import java.util.List;
 /**
  * An Activity to create a new Group Channel.
  * First displays a selectable list of users,
- * then shows an option to create a Distinct channel.
+ * then shows an option to create a Distinct channels.
  */
 
 public class CreateGroupChannelActivity extends AppCompatActivity
