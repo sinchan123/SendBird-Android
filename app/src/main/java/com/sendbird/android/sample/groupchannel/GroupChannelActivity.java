@@ -26,7 +26,7 @@ public class GroupChannelActivity extends AppCompatActivity{
         }
 
         if (savedInstanceState == null) {
-            // Load list of Group Channels
+            // Load list of Group Channel
             Fragment fragment = GroupChannelListFragment.newInstance();
 
             FragmentManager manager = getSupportFragmentManager();
